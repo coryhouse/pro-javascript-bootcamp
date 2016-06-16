@@ -1,4 +1,4 @@
-# Pro JavaScript Bootcamp - KCDC 2016
+# Pro JavaScript Bootcamp
 
 ## To follow along, do this **before** KCDC:
 1. Install [Node 6](https://nodejs.org/en/) if on Mac or Linux. Install Node [5.11.1](https://nodejs.org/en/download/releases/) if on Windows.

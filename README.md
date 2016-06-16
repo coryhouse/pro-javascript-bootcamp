@@ -8,7 +8,8 @@ To follow along, do this **before** the conference:
 4. **Install Node Packages.** - `npm install`
 5. **Run the app.** - `npm start -s` If the app opens in your default browser, you're all set. This is an example of the full development environment we'll build. You can use this as a reference throughout the day.
 
-
+##Curious what we're using?
+The dependencies we're using are below. Note that React is listed, but the principles and tools we'll focus on aren't specific to React.
 
 ###Production Dependencies
 | **Dependency** | **Use** |

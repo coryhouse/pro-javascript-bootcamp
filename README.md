@@ -6,8 +6,9 @@ To follow along, do this **before** the conference:
 2. **Clone this repository.** - `git clone https://github.com/coryhouse/pro-javascript-bootcamp.git` or [download the zip](https://github.com/coryhouse/pro-javascript-bootcamp/archive/master.zip)
 3. **Make sure you're in the directory you just created.** - `cd pro-javascript-bootcamp`
 4. **Install Node Packages.** - `npm install`
-5. **Run the app.** - `npm start -s`
-This will run the automated build process, start up a webserver, and open the application in your default browser. When doing development with this kit, this command will continue watching files all your files. Every time you hit save the code is rebuilt, linting runs, and tests run automatically. Note: The -s flag is optional. It enables silent mode which suppresses unnecessary messages during the build.
+5. **Run the app.** - `npm start -s` If the app opens in your default browser, you're all set. This is an example of the full development environment we'll build. You can use this as a reference throughout the day.
+
+
 
 ###Production Dependencies
 | **Dependency** | **Use** |

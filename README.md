@@ -1,5 +1,7 @@
 # Pro JavaScript Bootcamp
 
+[Slides](https://www.dropbox.com/s/wr67o47fv3f4ebp/Pro%20JavaScript%20Bootcamp.pptx?dl=0)
+
 To follow along, do this **before** the conference:
 
 1. Install [Node 6](https://nodejs.org/en/) if on Mac or Linux. Install Node [5.11.1](https://nodejs.org/en/download/releases/) if on Windows.  
